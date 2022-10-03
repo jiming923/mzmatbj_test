@@ -1,0 +1,22 @@
+{
+    "name": "mzmatbj/common",
+    "description": "this is mzmatbj common package",
+    "type": "l",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "maozhiming",
+            "email": "maozhiming@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "mzmatbj\\common": "src/common"
+        }
+    }
+
+}
