@@ -1,5 +1,5 @@
 <?php
-namespace mzmatbj\common;
+namespace mzmatbj;
 
 class Util {
 
